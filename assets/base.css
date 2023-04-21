@@ -2707,6 +2707,7 @@ details[open] > .header__submenu {
 .header__menu-item {
   padding: 1.2rem;
   text-decoration: none;
+  text-transform: uppercase;
   color: rgba(var(--color-foreground), 0.75);
 }
 
