@@ -37,7 +37,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/pomme-bg-1_66474a80-5dee-4bfa-b7e2-65bb1ec33a13.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "center",
